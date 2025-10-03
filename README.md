@@ -38,4 +38,4 @@ Untuk mempermudah penilaian submission yang dikirim, Anda perlu memahami ketentu
 Selamat mengerjakan dan sukses selalu!
 
 
-<!-- coba github actions -->
+<!-- trigger -->
